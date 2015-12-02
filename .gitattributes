@@ -1,0 +1,4 @@
+* text=auto
+
+*.s#? binary
+*.sch binary
